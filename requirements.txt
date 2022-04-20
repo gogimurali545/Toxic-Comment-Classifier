@@ -2,3 +2,5 @@ pandas
 plotly-express
 pickle5
 matplotlib
+scikit-multilearn
+
